@@ -20,4 +20,5 @@ classic trade-off between **control and convenience**.
 
 So if you're optimizing for **performance**, JNI is the way to go. But if you're prioritizing **developer productivity and simplicity**, JNA can save you a lot of time.
 
-Want help converting a JNI call to JNA or benchmarking the difference in your app?
+## Sources
+- https://github.com/java-native-access/jna
