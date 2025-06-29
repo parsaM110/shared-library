@@ -8,4 +8,4 @@ In Android, for example, native shared libraries are often used to boost perform
 
 If you're working with Java and want to create a native shared library from your code, tools like GraalVM let you compile Java classes into native `.so` libraries that can be called from C or other native code.
 
-Are you working on something specific with native libraries—like Android development or integrating C code into a Java app? I can tailor the info to your project.
+
